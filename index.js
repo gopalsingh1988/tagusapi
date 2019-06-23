@@ -7,8 +7,8 @@ var Busboy = require('busboy');
 
 var server = express();
 
-const uploadPath = path.join(process.env.PATH, 'public/uploads');
-const assetsPath = path.join(process.env.PATH, 'public/assets');
+const uploadPath = path.join(__dirname, 'public/uploads');
+const assetsPath = path.join(__dirname, 'public/assets');
 
 server.use(function (req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
