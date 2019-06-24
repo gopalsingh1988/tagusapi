@@ -1,46 +1,4 @@
 {
-  "associations": [
-    {
-      "retailer": 1
-    },
-    {
-      "wholeseller": 2
-    }
-  ],
-  "types": [
-    {
-      "FMCG": 1
-    },
-    {
-      "Digital": 2
-    }
-  ],
-  "categories": [
-    {
-      "Personal Care": 1
-    },
-    {
-      "Groceries": 2
-    }
-  ],
-  "subCategories": [
-    {
-      "Soaps": 1
-    },
-    {
-      "Perfumes": 2
-    }
-  ],
-  "batches": [
-    {
-      "id": 1,
-      "productId": 1,
-      "manufacturingDate": "1/1/2019",
-      "expiryDate": "1/1/2020",
-      "barCode": "313133131333313",
-      "vendorId": 1
-    }
-  ],
   "products": [
     {
       "id": 1,
@@ -68,7 +26,7 @@
       "height": 17,
       "ratingsCount": 5,
       "ratingsValue": 4.5,
-      "imageUrl": "assets/productPlaceholder.png",
+      "imageUrl": "assets/306136_7-pears-soft-fresh-soap-bar.jpg",
       "description": "Pears Young & Glowing is the original 225 years old glycerin bar that gives the gentle care of natural oils & 98% pure glycerin to your skin. It is the worlds first transparent soap and advertised brand. Its undisputed credentials on mildness & purity, driven by its unique shape and transparency lend the brand an equity that lasts till this date. The Pears bar with its 98% pure glycerin preserves the beauty of your skin keeping it young. Pears treats your skin gently causing lesser damage than even baby soaps. Pears, which has 30 times more moisturizers than regular beauty soaps and is proven to deposit glycerin in 10 layers of skin. It increases hydration of your skin after a single wash. Pears also offer a 100% soap free Pure & Gentle hand wash, which is specially made to take care of your skin, cleansing thoroughly yet softly. It is a gentle way for you to attain clean, healthy looking skin. It is skin pH balanced and contains skin conditioning agents and mild cleansers. Also, the glycerin helps your skin to retain the moisture and stay innocent and beautiful. It produces a soft lather which ensures that your skin gets the pampering it deserves. It is hypoallergenic and non-comedogenic. It is recommended by doctors and pediatricians around the world. It has a distinctly sweet fragrance that envelopes you with its mild and soothing aroma. For Beauty tips, tricks & more visit https: //bigbasket.blog/"
     },
     {
@@ -97,7 +55,7 @@
       "height": 17,
       "ratingsCount": 5,
       "ratingsValue": 4.1,
-      "imageUrl": "assets/productPlaceholder.png",
+      "imageUrl": "assets/100003862_2-mysore-sandal-bathing-soap.jpg",
       "description": "Pears Young & Glowing is the original 225 years old glycerin bar that gives the gentle care of natural oils & 98% pure glycerin to your skin. It is the worlds first transparent soap and advertised brand. Its undisputed credentials on mildness & purity, driven by its unique shape and transparency lend the brand an equity that lasts till this date. The Pears bar with its 98% pure glycerin preserves the beauty of your skin keeping it young. Pears treats your skin gently causing lesser damage than even baby soaps. Pears, which has 30 times more moisturizers than regular beauty soaps and is proven to deposit glycerin in 10 layers of skin. It increases hydration of your skin after a single wash. Pears also offer a 100% soap free Pure & Gentle hand wash, which is specially made to take care of your skin, cleansing thoroughly yet softly. It is a gentle way for you to attain clean, healthy looking skin. It is skin pH balanced and contains skin conditioning agents and mild cleansers. Also, the glycerin helps your skin to retain the moisture and stay innocent and beautiful. It produces a soft lather which ensures that your skin gets the pampering it deserves. It is hypoallergenic and non-comedogenic. It is recommended by doctors and pediatricians around the world. It has a distinctly sweet fragrance that envelopes you with its mild and soothing aroma. For Beauty tips, tricks & more visit https: //bigbasket.blog/",
       "isNew": true
     },
@@ -127,7 +85,7 @@
       "height": 17,
       "ratingsCount": 5,
       "ratingsValue": 3.5,
-      "imageUrl": "assets/productPlaceholder.png",
+      "imageUrl": "assets/306184_16-liril-soap-bar-lemon-tea-tree-oil.jpg",
       "description": "Pears Young & Glowing is the original 225 years old glycerin bar that gives the gentle care of natural oils & 98% pure glycerin to your skin. It is the worlds first transparent soap and advertised brand. Its undisputed credentials on mildness & purity, driven by its unique shape and transparency lend the brand an equity that lasts till this date. The Pears bar with its 98% pure glycerin preserves the beauty of your skin keeping it young. Pears treats your skin gently causing lesser damage than even baby soaps. Pears, which has 30 times more moisturizers than regular beauty soaps and is proven to deposit glycerin in 10 layers of skin. It increases hydration of your skin after a single wash. Pears also offer a 100% soap free Pure & Gentle hand wash, which is specially made to take care of your skin, cleansing thoroughly yet softly. It is a gentle way for you to attain clean, healthy looking skin. It is skin pH balanced and contains skin conditioning agents and mild cleansers. Also, the glycerin helps your skin to retain the moisture and stay innocent and beautiful. It produces a soft lather which ensures that your skin gets the pampering it deserves. It is hypoallergenic and non-comedogenic. It is recommended by doctors and pediatricians around the world. It has a distinctly sweet fragrance that envelopes you with its mild and soothing aroma. For Beauty tips, tricks & more visit https: //bigbasket.blog/"
     },
     {
@@ -156,7 +114,7 @@
       "height": 17,
       "ratingsCount": 5,
       "ratingsValue": 3.5,
-      "imageUrl": "assets/productPlaceholder.png",
+      "imageUrl": "assets/40016660_11-pears-pure-gentle-bathing-bar.jpg",
       "description": "Pears Young & Glowing is the original 225 years old glycerin bar that gives the gentle care of natural oils & 98% pure glycerin to your skin. It is the worlds first transparent soap and advertised brand. Its undisputed credentials on mildness & purity, driven by its unique shape and transparency lend the brand an equity that lasts till this date. The Pears bar with its 98% pure glycerin preserves the beauty of your skin keeping it young. Pears treats your skin gently causing lesser damage than even baby soaps. Pears, which has 30 times more moisturizers than regular beauty soaps and is proven to deposit glycerin in 10 layers of skin. It increases hydration of your skin after a single wash. Pears also offer a 100% soap free Pure & Gentle hand wash, which is specially made to take care of your skin, cleansing thoroughly yet softly. It is a gentle way for you to attain clean, healthy looking skin. It is skin pH balanced and contains skin conditioning agents and mild cleansers. Also, the glycerin helps your skin to retain the moisture and stay innocent and beautiful. It produces a soft lather which ensures that your skin gets the pampering it deserves. It is hypoallergenic and non-comedogenic. It is recommended by doctors and pediatricians around the world. It has a distinctly sweet fragrance that envelopes you with its mild and soothing aroma. For Beauty tips, tricks & more visit https: //bigbasket.blog/"
     },
     {
@@ -185,7 +143,7 @@
       "height": 17,
       "ratingsCount": 5,
       "ratingsValue": 3.5,
-      "imageUrl": "assets/productPlaceholder.png",
+      "imageUrl": "assets/306136_7-pears-soft-fresh-soap-bar.jpg",
       "description": "Pears Young & Glowing is the original 225 years old glycerin bar that gives the gentle care of natural oils & 98% pure glycerin to your skin. It is the worlds first transparent soap and advertised brand. Its undisputed credentials on mildness & purity, driven by its unique shape and transparency lend the brand an equity that lasts till this date. The Pears bar with its 98% pure glycerin preserves the beauty of your skin keeping it young. Pears treats your skin gently causing lesser damage than even baby soaps. Pears, which has 30 times more moisturizers than regular beauty soaps and is proven to deposit glycerin in 10 layers of skin. It increases hydration of your skin after a single wash. Pears also offer a 100% soap free Pure & Gentle hand wash, which is specially made to take care of your skin, cleansing thoroughly yet softly. It is a gentle way for you to attain clean, healthy looking skin. It is skin pH balanced and contains skin conditioning agents and mild cleansers. Also, the glycerin helps your skin to retain the moisture and stay innocent and beautiful. It produces a soft lather which ensures that your skin gets the pampering it deserves. It is hypoallergenic and non-comedogenic. It is recommended by doctors and pediatricians around the world. It has a distinctly sweet fragrance that envelopes you with its mild and soothing aroma. For Beauty tips, tricks & more visit https: //bigbasket.blog/"
     },
     {
@@ -214,7 +172,7 @@
       "height": 17,
       "ratingsCount": 5,
       "ratingsValue": 3.5,
-      "imageUrl": "assets/productPlaceholder.png",
+      "imageUrl": "assets/306136_7-pears-soft-fresh-soap-bar.jpg",
       "description": "Pears Young & Glowing is the original 225 years old glycerin bar that gives the gentle care of natural oils & 98% pure glycerin to your skin. It is the worlds first transparent soap and advertised brand. Its undisputed credentials on mildness & purity, driven by its unique shape and transparency lend the brand an equity that lasts till this date. The Pears bar with its 98% pure glycerin preserves the beauty of your skin keeping it young. Pears treats your skin gently causing lesser damage than even baby soaps. Pears, which has 30 times more moisturizers than regular beauty soaps and is proven to deposit glycerin in 10 layers of skin. It increases hydration of your skin after a single wash. Pears also offer a 100% soap free Pure & Gentle hand wash, which is specially made to take care of your skin, cleansing thoroughly yet softly. It is a gentle way for you to attain clean, healthy looking skin. It is skin pH balanced and contains skin conditioning agents and mild cleansers. Also, the glycerin helps your skin to retain the moisture and stay innocent and beautiful. It produces a soft lather which ensures that your skin gets the pampering it deserves. It is hypoallergenic and non-comedogenic. It is recommended by doctors and pediatricians around the world. It has a distinctly sweet fragrance that envelopes you with its mild and soothing aroma. For Beauty tips, tricks & more visit https: //bigbasket.blog/"
     },
     {
@@ -243,7 +201,7 @@
       "height": 17,
       "ratingsCount": 5,
       "ratingsValue": 3.5,
-      "imageUrl": "assets/productPlaceholder.png",
+      "imageUrl": "assets/40016743_5-dove-bathing-bar-soap-cream-beauty.jpg",
       "description": "Pears Young & Glowing is the original 225 years old glycerin bar that gives the gentle care of natural oils & 98% pure glycerin to your skin. It is the worlds first transparent soap and advertised brand. Its undisputed credentials on mildness & purity, driven by its unique shape and transparency lend the brand an equity that lasts till this date. The Pears bar with its 98% pure glycerin preserves the beauty of your skin keeping it young. Pears treats your skin gently causing lesser damage than even baby soaps. Pears, which has 30 times more moisturizers than regular beauty soaps and is proven to deposit glycerin in 10 layers of skin. It increases hydration of your skin after a single wash. Pears also offer a 100% soap free Pure & Gentle hand wash, which is specially made to take care of your skin, cleansing thoroughly yet softly. It is a gentle way for you to attain clean, healthy looking skin. It is skin pH balanced and contains skin conditioning agents and mild cleansers. Also, the glycerin helps your skin to retain the moisture and stay innocent and beautiful. It produces a soft lather which ensures that your skin gets the pampering it deserves. It is hypoallergenic and non-comedogenic. It is recommended by doctors and pediatricians around the world. It has a distinctly sweet fragrance that envelopes you with its mild and soothing aroma. For Beauty tips, tricks & more visit https: //bigbasket.blog/",
       "isNew": true
     },
@@ -273,7 +231,7 @@
       "height": 17,
       "ratingsCount": 5,
       "ratingsValue": 3.5,
-      "imageUrl": "assets/productPlaceholder.png",
+      "imageUrl": "assets/100003862_2-mysore-sandal-bathing-soap.jpg",
       "description": "Pears Young & Glowing is the original 225 years old glycerin bar that gives the gentle care of natural oils & 98% pure glycerin to your skin. It is the worlds first transparent soap and advertised brand. Its undisputed credentials on mildness & purity, driven by its unique shape and transparency lend the brand an equity that lasts till this date. The Pears bar with its 98% pure glycerin preserves the beauty of your skin keeping it young. Pears treats your skin gently causing lesser damage than even baby soaps. Pears, which has 30 times more moisturizers than regular beauty soaps and is proven to deposit glycerin in 10 layers of skin. It increases hydration of your skin after a single wash. Pears also offer a 100% soap free Pure & Gentle hand wash, which is specially made to take care of your skin, cleansing thoroughly yet softly. It is a gentle way for you to attain clean, healthy looking skin. It is skin pH balanced and contains skin conditioning agents and mild cleansers. Also, the glycerin helps your skin to retain the moisture and stay innocent and beautiful. It produces a soft lather which ensures that your skin gets the pampering it deserves. It is hypoallergenic and non-comedogenic. It is recommended by doctors and pediatricians around the world. It has a distinctly sweet fragrance that envelopes you with its mild and soothing aroma. For Beauty tips, tricks & more visit https: //bigbasket.blog/"
     },
     {
@@ -302,7 +260,7 @@
       "height": 17,
       "ratingsCount": 5,
       "ratingsValue": 3.5,
-      "imageUrl": "assets/productPlaceholder.png",
+      "imageUrl": "assets/40016743_5-dove-bathing-bar-soap-cream-beauty.jpg",
       "description": "Pears Young & Glowing is the original 225 years old glycerin bar that gives the gentle care of natural oils & 98% pure glycerin to your skin. It is the worlds first transparent soap and advertised brand. Its undisputed credentials on mildness & purity, driven by its unique shape and transparency lend the brand an equity that lasts till this date. The Pears bar with its 98% pure glycerin preserves the beauty of your skin keeping it young. Pears treats your skin gently causing lesser damage than even baby soaps. Pears, which has 30 times more moisturizers than regular beauty soaps and is proven to deposit glycerin in 10 layers of skin. It increases hydration of your skin after a single wash. Pears also offer a 100% soap free Pure & Gentle hand wash, which is specially made to take care of your skin, cleansing thoroughly yet softly. It is a gentle way for you to attain clean, healthy looking skin. It is skin pH balanced and contains skin conditioning agents and mild cleansers. Also, the glycerin helps your skin to retain the moisture and stay innocent and beautiful. It produces a soft lather which ensures that your skin gets the pampering it deserves. It is hypoallergenic and non-comedogenic. It is recommended by doctors and pediatricians around the world. It has a distinctly sweet fragrance that envelopes you with its mild and soothing aroma. For Beauty tips, tricks & more visit https: //bigbasket.blog/"
     },
     {
@@ -331,7 +289,7 @@
       "height": 17,
       "ratingsCount": 5,
       "ratingsValue": 3.5,
-      "imageUrl": "assets/productPlaceholder.png",
+      "imageUrl": "assets/40016743_5-dove-bathing-bar-soap-cream-beauty.jpg",
       "description": "Pears Young & Glowing is the original 225 years old glycerin bar that gives the gentle care of natural oils & 98% pure glycerin to your skin. It is the worlds first transparent soap and advertised brand. Its undisputed credentials on mildness & purity, driven by its unique shape and transparency lend the brand an equity that lasts till this date. The Pears bar with its 98% pure glycerin preserves the beauty of your skin keeping it young. Pears treats your skin gently causing lesser damage than even baby soaps. Pears, which has 30 times more moisturizers than regular beauty soaps and is proven to deposit glycerin in 10 layers of skin. It increases hydration of your skin after a single wash. Pears also offer a 100% soap free Pure & Gentle hand wash, which is specially made to take care of your skin, cleansing thoroughly yet softly. It is a gentle way for you to attain clean, healthy looking skin. It is skin pH balanced and contains skin conditioning agents and mild cleansers. Also, the glycerin helps your skin to retain the moisture and stay innocent and beautiful. It produces a soft lather which ensures that your skin gets the pampering it deserves. It is hypoallergenic and non-comedogenic. It is recommended by doctors and pediatricians around the world. It has a distinctly sweet fragrance that envelopes you with its mild and soothing aroma. For Beauty tips, tricks & more visit https: //bigbasket.blog/",
       "isNew": true
     },
@@ -361,29 +319,11 @@
       "height": 17,
       "ratingsCount": 5,
       "ratingsValue": 3.5,
-      "imageUrl": "assets/productPlaceholder.png",
+      "imageUrl": "assets/40016743_5-dove-bathing-bar-soap-cream-beauty.jpg",
       "description": "Pears Young & Glowing is the original 225 years old glycerin bar that gives the gentle care of natural oils & 98% pure glycerin to your skin. It is the worlds first transparent soap and advertised brand. Its undisputed credentials on mildness & purity, driven by its unique shape and transparency lend the brand an equity that lasts till this date. The Pears bar with its 98% pure glycerin preserves the beauty of your skin keeping it young. Pears treats your skin gently causing lesser damage than even baby soaps. Pears, which has 30 times more moisturizers than regular beauty soaps and is proven to deposit glycerin in 10 layers of skin. It increases hydration of your skin after a single wash. Pears also offer a 100% soap free Pure & Gentle hand wash, which is specially made to take care of your skin, cleansing thoroughly yet softly. It is a gentle way for you to attain clean, healthy looking skin. It is skin pH balanced and contains skin conditioning agents and mild cleansers. Also, the glycerin helps your skin to retain the moisture and stay innocent and beautiful. It produces a soft lather which ensures that your skin gets the pampering it deserves. It is hypoallergenic and non-comedogenic. It is recommended by doctors and pediatricians around the world. It has a distinctly sweet fragrance that envelopes you with its mild and soothing aroma. For Beauty tips, tricks & more visit https: //bigbasket.blog/"
     }
   ],
   "orders": [],
-  "paymentTypes": [
-    {
-      "id": 1,
-      "type": "Card"
-    },
-    {
-      "id": 2,
-      "type": "Wallet"
-    },
-    {
-      "id": 3,
-      "type": "COD"
-    },
-    {
-      "id": 1,
-      "type": "Third Party"
-    }
-  ],
   "users": [
     {
       "id": 1,
@@ -460,79 +400,6 @@
         "ifsc": "SBI78787",
         "bankAdress": "Madhapur, Hyderabad"
       }
-    },
-    {
-      "id": 3,
-      "active": false,
-      "name": "dwqd",
-      "mobile": "2332323",
-      "email": "dqwdd",
-      "relationship": 1,
-      "dob": "2323",
-      "password": "d",
-      "address": {
-        "addressline1": "fweff",
-        "addressline2": "fffef",
-        "landmark": "efe",
-        "city": "wefef",
-        "state": "fw",
-        "pin": "43434"
-      },
-      "business": {
-        "type": 2,
-        "since": "3434",
-        "name": "egg",
-        "registrationType": 1,
-        "registrationNo": "3434",
-        "GST": true,
-        "GSTNo": "43"
-      },
-      "kyc": {
-        "photo": [],
-        "aadhar": [],
-        "pan": [],
-        "cancelledCheque": [],
-        "accountNo": "4343",
-        "accountName": "ergg",
-        "ifsc": "ere no",
-        "bankAdress": "reer"
-      }
-    }
-  ],
-  "wallets": [
-    {
-      "id": 1,
-      "amount": 1000,
-      "userId": 1,
-      "transactionHistory": [
-        {
-          "amount": 10,
-          "reconciled": false,
-          "type": "TransactionType.credit",
-          "description": "Credit wallet/upload/bf229970-5970-11e9-931a-af307e790d97.jpg",
-          "dateTime": "2019-05-17T18:43:37.707253"
-        },
-        {
-          "amount": 10,
-          "reconciled": false,
-          "type": "TransactionType.credit",
-          "description": "Credit wallet/upload/bf229970-5970-11e9-931a-af307e790d97.jpg",
-          "dateTime": "2019-05-18T18:43:37.707253"
-        },
-        {
-          "amount": 90.45,
-          "reconciled": false,
-          "type": "TransactionType.debit",
-          "description": "Debit for OrderId: # 4",
-          "dateTime": "2019-05-20T18:57:35.354351"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "amount": 1000,
-      "userId": 2,
-      "transactionHistory": []
     }
   ],
   "transactions": []
